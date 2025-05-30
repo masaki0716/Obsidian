@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "FREESPACE/実験ファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "実験ファイル"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "5e2b14ece4c7ddc1",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "FREESPACE/実験ファイル.md",
+    "FREESPACE"
   ]
 }
