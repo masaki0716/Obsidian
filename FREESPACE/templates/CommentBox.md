@@ -5,6 +5,5 @@ padding: 10px;
 border-radius: 8px 8px 0px 8px;
 color:black;
 ">
-	Hello World!
 </div>
 

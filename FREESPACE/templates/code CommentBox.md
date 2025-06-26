@@ -8,7 +8,5 @@
   white-space: pre;
 ">
 <pre><code>
-
-
 </code></pre>
 </div>
