@@ -28,7 +28,7 @@
 1番目の引数：5
 2番目の引数：2
 
-- もし数値として使いたければ、`Integer.parseInt(args[0])` のように変換する
+- ==もし数値として使いたければ、`Integer.parseInt(args[0])` のように変換する==
 
 <div style="
   border: 2px solid blue;
@@ -51,6 +51,8 @@ public class Sample {
 
 →
 合計：7
+
+[[コマンドライン実行時に起きるエラー]]
 
 
 
